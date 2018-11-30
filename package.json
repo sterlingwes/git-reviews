@@ -1,0 +1,11 @@
+{
+  "name": "git-reviews",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Wes Johnson <swj@wesquire.ca>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
+}
